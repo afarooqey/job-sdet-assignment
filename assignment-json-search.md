@@ -56,7 +56,7 @@ At the end it should also show how many times the term was present.
 ###### Example  1
 ```
 Input: "Action"
-Search Term: "Action" Movies: "Avengers: Age of Ultron", "The Avengers" count: 2
+Output: Search Term: "Action" Movies: "Avengers: Age of Ultron", "The Avengers" count: 2
 ``` 
 ###### Example  2
 ```
