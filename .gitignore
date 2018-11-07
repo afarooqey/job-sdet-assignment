@@ -1,0 +1,7 @@
+#Files
+
+#Directories
+.idea/
+.project/
+target/
+build/

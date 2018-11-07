@@ -6,7 +6,7 @@ The purpose of this search is to return the title of a movie when a word or phra
 
 At the end it should also show how many times the term was present. 
 
-##### Example
+##### Example JSON
 ```
 [
   {
@@ -79,25 +79,22 @@ The purpose of this assignment is to demonstrate abilities in the following area
 1. Use of Data Structures.
 2. Recursion vs Iteration.
 3. Documentation.
-4. Testing.
-
-#### Hints
-* It's best to use recursion for this solution.
-* Particular emphasis will be paid on how much test coverage you have provided through unit tests.
-* Provide extensive negative test coverage.
-* Documentation which lists detailed commands on how to build your project will be useful.
-* Please do not commit any project IDE files or other unnecessary files. 
+4. Testing. 
 
 #### Technology Stack
 * Implement this solution in your language of choice.
 * Submit the assignment in a repository on Github.
 
-#### Submission Guidelines
+#### Submission Guidelines and Hints
 When writing a solution for this assignment please consider best programming practices such as
 
-* naming conventions
-* documentation
-* proper unit test coverage
-* use of best data structures
+* Naming conventions.
+* Use of most appropriate data structures.
+* It's best to use recursion for this solution.
+* Particular emphasis will be paid on how much test coverage you have provided through unit tests.
+* Provide extensive negative test coverage.
+* You're encouraged to provide examples of test cases with your own JSON objects besides the one example above.
+* Documentation which lists detailed commands on how to build your project will be useful.
+* Please do not commit any project IDE files or other unnecessary files.
 
 Upon completion create a new repository on Github and send the link to your repository.
