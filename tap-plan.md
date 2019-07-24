@@ -1,12 +1,16 @@
 # TAP Resource SDET Onboarding Plan
-This onboarding plan highlights the steps to train a new TAP resource for the SDET role at EY.
+This onboarding plan highlights the steps to train a new TAP resource for the SDET role at EY. 
+
+Two resources are requested to staff engagements at Mastercard (Alberta, DIP, Connect) and potentially others in the future. We are need of new resources in the Alberta engagement as two existing SDETs will go away on PTO and these new resources can fill in while they are away. It will also build a SDET pipeline for future engagements.
 
 ## Cost
-A new TAP resource's expected rate is: ??? per week.
+A new TAP resource's expected rate is: $47/hour.
 
 This is a four week plan.
 
-#### Total Cost: $ ???
+Cost for 1 TAP resource per week = 47 x 40 = $1,880.00.
+
+#### Total Cost Two Resources: $3,760.00.
 
 ## Objectives
 The main objective of this initiative is to train a new resource as Software Developer Engineer in Test (SDET).
