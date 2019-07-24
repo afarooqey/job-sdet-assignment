@@ -23,6 +23,7 @@ Following technologies will be covered to give an overview of how to start test 
 1. Java
 2. Groovy
 3. Scala
+
 #### Frameworks
 1. JUnit
 2. Spock
@@ -31,6 +32,19 @@ Following technologies will be covered to give an overview of how to start test 
 5. Postman
 6. Gatling
 7. JMeter
+
+## Prerequisites
+
+* A Computer Science graduate.
+* Fluent in Java or other OOP language.
+
+Nice to have:
+* Experience working in CI environment.
+* Javascript.
+* Shell scripting.
+* Working with APIs.
+* REST principles.
+
 
 ## Timeline
 This training plan spans 4 weeks. 
