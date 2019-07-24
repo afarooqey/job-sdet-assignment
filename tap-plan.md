@@ -1,6 +1,13 @@
 # TAP Resource SDET Onboarding Plan
 This onboarding plan highlights the steps to train a new TAP resource for the SDET role at EY.
 
+## Cost
+A new TAP resource's expected rate is: ??? per week.
+
+This is a four week plan.
+
+#### Total Cost: $ ???
+
 ## Objectives
 * Automation Importance.
 * Manual Testing.
