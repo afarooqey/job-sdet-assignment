@@ -9,6 +9,10 @@ This is a four week plan.
 #### Total Cost: $ ???
 
 ## Objectives
+The main objective of this initiative is to train a new resource as Software Developer Engineer in Test (SDET).
+
+Test Development techniques vary from Development efforts and are quite different from manual testing approach.
+
 * Automation Importance.
 * Manual Testing.
 * Training on Automation.
@@ -58,10 +62,10 @@ This training plan spans 4 weeks.
 
 ## Outcomes
 At the end of four weeks of training the resource should be able to:
-*  Write basic test cases in Postman.
-*  Write Integration tests for REST services in Java or Groovy.
-*  Identify performance test scenarios.
-*  Write test plan for E2E UI tests.
-*  Write basic UI tests.
-*  Publish all of the above in a Git repository.
-
+* Write basic test cases in Postman.
+* Write Integration tests for REST services in Java or Groovy.
+* Identify performance test scenarios.
+* Write test plan for E2E UI tests.
+* Write basic UI tests.
+* Publish all of the above in a Git repository.
+* Run tests in a Continuous Integration environment.
