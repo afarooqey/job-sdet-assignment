@@ -8,9 +8,9 @@ A new TAP resource's expected rate is: $47/hour.
 
 This is a four week plan.
 
-Cost for 1 TAP resource per week = 47 x 40 = $1,880.00.
+Cost for 1 TAP resource per week = 47 x 40 x 4 = $7,520.00.
 
-#### Total Cost Two Resources: $3,760.00.
+#### Total Cost for Two Resources: $15,040.00.
 
 ## Objectives
 The main objective of this initiative is to train a new resource as Software Developer Engineer in Test (SDET).
